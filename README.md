@@ -1,3 +1,11 @@
+## Julio's Portfolio Website
+
+Welcome to my portfolio website repo. I'm using a template from HTML5 UP present to describe my journey as a software engineer as well as showcasing my projects while attending a bootcamp at App Academy.
+
+
+
+### Credits
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
