@@ -251,8 +251,6 @@ a {
 	/* border-bottom: dotted 1px rgba(88, 88, 88, 0.5); */
 }
 
-.contact-badge {}
-
 a:hover {
 	border-bottom-color: transparent;
 	color: #f2849e !important;
@@ -2992,9 +2990,17 @@ body.is-touch .tiles article .content {
 	z-index: 10000;
 }
 
-nav div {
+/* .get-in-touch, .contact-email {
 	display: flex;
 	justify-content: flex-end;
+} */
+
+.get-in-touch h2, .contact-email {
+	margin: 1rem 0 1rem 0;
+}
+
+.contact-email p {
+	margin: 0;
 }
 
 #header nav ul {
